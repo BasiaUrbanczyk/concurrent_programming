@@ -1,0 +1,11 @@
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/pipeline-tester.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/pipeline-utils.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/parent-fifo.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/child-fifo.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/pipeline.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/child-pipe.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/parent-dup.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/parent-pipe.dir
+/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug/CMakeFiles/err.dir

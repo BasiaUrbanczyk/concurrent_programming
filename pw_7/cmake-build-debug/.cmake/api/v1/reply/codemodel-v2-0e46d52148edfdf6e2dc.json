@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MIMUW-FORK",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "child-fifo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-child-fifo-Debug-86dba8a9c38e8485b334.json",
+					"name" : "child-fifo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "child-pipe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-child-pipe-Debug-13375abc2944e1396d24.json",
+					"name" : "child-pipe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "err::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-err-Debug-58080aa713b65b5338d2.json",
+					"name" : "err",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parent-dup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent-dup-Debug-87a42b4a9c1ab16aa41b.json",
+					"name" : "parent-dup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parent-fifo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent-fifo-Debug-083339d12e538b0d6e79.json",
+					"name" : "parent-fifo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parent-pipe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent-pipe-Debug-0cf30c4f251437e0525e.json",
+					"name" : "parent-pipe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pipeline::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pipeline-Debug-0215333068870e83b362.json",
+					"name" : "pipeline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pipeline-tester::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pipeline-tester-Debug-f8bb942ed86d91a167d0.json",
+					"name" : "pipeline-tester",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pipeline-utils::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pipeline-utils-Debug-07b7bf8d6a3415c30d4d.json",
+					"name" : "pipeline-utils",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/basiau/Desktop/przyklady08-20221205/cmake-build-debug",
+		"source" : "/Users/basiau/Desktop/przyklady08-20221205"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

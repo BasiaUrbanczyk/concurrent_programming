@@ -1,0 +1,6 @@
+/Users/basiau/Desktop/Przykłady pthreads-20221207/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/basiau/Desktop/Przykłady pthreads-20221207/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/basiau/Desktop/Przykłady pthreads-20221207/cmake-build-debug/CMakeFiles/producer-consumer.dir
+/Users/basiau/Desktop/Przykłady pthreads-20221207/cmake-build-debug/CMakeFiles/primes.dir
+/Users/basiau/Desktop/Przykłady pthreads-20221207/cmake-build-debug/CMakeFiles/readers-writers-template.dir
+/Users/basiau/Desktop/Przykłady pthreads-20221207/cmake-build-debug/CMakeFiles/err.dir

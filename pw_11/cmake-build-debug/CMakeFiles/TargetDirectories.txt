@@ -1,0 +1,13 @@
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/thread-detached.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/grep-seq.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/promise-exception.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/grep_sol.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/grep-conc.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/res.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/args.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/thread-raii.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/promise.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/thread-join.dir
+/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug/CMakeFiles/thread.dir

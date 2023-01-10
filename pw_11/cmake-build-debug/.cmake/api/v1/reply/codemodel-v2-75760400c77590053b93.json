@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MIMUW-CPCPP-lab1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "args::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-args-Debug-df1314dfc4b94885bf68.json",
+					"name" : "args",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grep-conc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grep-conc-Debug-d601ba864a95e644b676.json",
+					"name" : "grep-conc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grep-seq::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grep-seq-Debug-24b0f6ebce0f9e4908b4.json",
+					"name" : "grep-seq",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grep_sol::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grep_sol-Debug-eb018c55b00e345d42f4.json",
+					"name" : "grep_sol",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "promise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-promise-Debug-8c77220080968cac616f.json",
+					"name" : "promise",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "promise-exception::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-promise-exception-Debug-9c9f85590e7df6ea79b8.json",
+					"name" : "promise-exception",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-res-Debug-c599fffdad1f2ff384ad.json",
+					"name" : "res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thread::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread-Debug-7b76e8eb6659cc901a46.json",
+					"name" : "thread",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thread-detached::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread-detached-Debug-c278d53b938b100c13fc.json",
+					"name" : "thread-detached",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thread-join::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread-join-Debug-7f8e2dd02a22ec9a9e6d.json",
+					"name" : "thread-join",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thread-raii::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread-raii-Debug-2e349497ab40b7ebf565.json",
+					"name" : "thread-raii",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/basiau/Desktop/Przykłady - wątki w c++-20230110/cmake-build-debug",
+		"source" : "/Users/basiau/Desktop/Przykłady - wątki w c++-20230110"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
